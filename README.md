@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ectomilas</h1>
-<h3 align="center">A starter programmer from France</h3>
+<h1 align="center">Hi, I'm ZIDANE Salim</h1>
+<h3 align="center">A programmer from France</h3>
 
 - 🌱 I’m currently learning **C++, HTML/CSS, SQL**
 
